@@ -1,10 +1,13 @@
 <template>
-  <h1>Home</h1>
+  Accounts
 </template>
 
 <script>
-
 export default {
-  name: 'HomeView',
+  name: 'AccountsView',
 }
 </script>
+
+<style>
+
+</style>

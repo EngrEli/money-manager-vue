@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    { "category": "Transportation",
+      "id": 1,
+      "comments": "LRT Pamasahe",
+      "type": "expense",
+      "account": "Cash on Hand"
+    },
+    { "category": "Foods",
+      "id": 2,
+      "comments": "Lunch",
+      "type": "expense",
+      "account": "Cash on Hand"
+    },
+    { "category": "Transportation",
+      "id": 3,
+      "comments": "Jeep Fare",
+      "type": "expense",
+      "account": "Cash on Hand"
+    }
+  ]
+}
