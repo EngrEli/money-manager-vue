@@ -4,19 +4,26 @@
       "id": 1,
       "comments": "LRT Pamasahe",
       "type": "expense",
-      "account": "Cash on Hand"
+      "account": "Cash on Hand",
+      "total": 900,
+      "date": "Mar 10, 2023"
     },
     { "category": "Foods",
       "id": 2,
       "comments": "Lunch",
       "type": "expense",
-      "account": "Cash on Hand"
+      "account": "Cash on Hand",
+      "total": 9000,
+      "date": "May 10, 2023"
     },
     { "category": "Transportation",
       "id": 3,
       "comments": "Jeep Fare",
       "type": "expense",
-      "account": "Cash on Hand"
+      "account": "Cash on Hand",
+      "total": 1000,
+      "date": "Jun 10, 2023"
+
     }
   ]
 }
